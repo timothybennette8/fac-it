@@ -1,7 +1,6 @@
 "strict mode";
 
 const { hex, symbols, numbers, validChar } = require("./lib/data.js");
-console.log(hex, symbols, numbers, validChar)
 // Encode string as hex
 
 /** takes a single character string and encodes as either a single hex code or an array of two hex codes depending on cipher

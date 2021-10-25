@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/timothybennette8/fac-it.git"
   },
-  "author": "Timothy Bennett",
+  "author": "layerstack",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/timothybennette8/fac-it/issues"
