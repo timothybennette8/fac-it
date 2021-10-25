@@ -1,0 +1,19 @@
+{
+  "name": "fac-it",
+  "version": "1.1.1",
+  "description": "Encodes ASCII as Factory Record's colour coded alphabet - as designed by Peter Saville. Returns hex values and fully rendered CSS and SVG elements.",
+  "main": "fac-it.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timothybennette8/fac-it.git"
+  },
+  "author": "Timothy Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothybennette8/fac-it/issues"
+  },
+  "homepage": "https://github.com/timothybennette8/fac-it#readme"
+}
