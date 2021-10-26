@@ -1,5 +1,5 @@
 # fac-it
-<img src="./fac-it.png">
+<img src="./icon.png">
   
 ***
 ## ASCII to Factory Records colour code alphabet converter.
