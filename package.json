@@ -1,6 +1,6 @@
 {
   "name": "fac-it",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Encodes ASCII as Factory Record's colour coded alphabet - as designed by Peter Saville. Returns hex values and fully rendered CSS and SVG elements.",
   "main": "fac-it.js",
   "scripts": {
