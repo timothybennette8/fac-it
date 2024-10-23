@@ -7,10 +7,6 @@ As designed by Peter Saville.
 
 Takes a string of ASCII and encodes it as embeddable SVG and CSS.
 
-<a href="http://fac-it.herokuapp.com">fac-it demo</a>
-
-<a href="https://www.npmjs.com/package/fac-it">NPM package</a>
-
 ### Installation
 
 ```
